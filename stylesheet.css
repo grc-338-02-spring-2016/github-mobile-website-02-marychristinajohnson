@@ -64,3 +64,43 @@ a:active {
     font-style: normal;
     margin-bottom: 7%;
 }
+
+/*About Me*/
+
+.title {
+    width: 100%;
+    display: block;
+    text-align: center;
+    margin: 5% auto;
+}
+
+h2 {
+    font-family: "abril-text", serif;
+    font-style: italic;
+    color: #B07F88;
+}
+
+.copy {
+    width: 100%;
+    margin: 0 auto;
+}
+
+p {
+    margin: 3% 5%;
+    font-family: "hypatia-sans-pro", sans-serif;
+    font-size: .9em;
+    line-height: 1.3em;
+    color: #2a2a2a;
+}
+
+.photo2 {
+    width: 100%;
+    margin: 2% auto 7%;
+    display: block;
+}
+
+.photo2 img {
+    width: 95%;
+    display: block;
+    margin: 0 auto;
+}
