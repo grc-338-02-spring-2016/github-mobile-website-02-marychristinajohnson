@@ -1,0 +1,66 @@
+/*Home Page*/
+
+/*Logo*/
+
+.logo {
+    margin: 5% auto;
+    width: 100%;
+}
+
+.logo img {
+    display: block;
+    margin: auto;
+    width: 35%;
+}
+
+/*Navigation*/
+
+nav ul {
+    background-color: #B07F88;
+    width: 100%;
+    overflow: hidden;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin: 4%;
+    text-align: center;
+}
+
+nav ul li a {
+    display: inline;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    font-family: "hypatia-sans-pro", sans-serif;
+}
+
+a:active {
+    color: lightgray;
+}
+
+.photo {
+    width: 100%;
+    margin: 2% auto;
+    display: block;
+}
+
+.photo img {
+    width: 95%;
+    display: block;
+    margin: 0 auto;
+}
+
+.welcome {
+    width: 100%;
+    text-align: center;
+    font-family: "hypatia-sans-pro", sans-serif;
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #B07F88;
+    font-style: normal;
+    margin-bottom: 7%;
+}
