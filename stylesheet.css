@@ -88,19 +88,94 @@ h2 {
 p {
     margin: 3% 5%;
     font-family: "hypatia-sans-pro", sans-serif;
-    font-size: .9em;
-    line-height: 1.3em;
+    font-size: 1em;
+    line-height: 1.5em;
     color: #2a2a2a;
+}
+
+.copy2 {
+    margin-bottom: 7%;
+}
+
+.copy2 p {
+    margin: 3% 5%;
+    font-family: "hypatia-sans-pro", sans-serif;
+    font-size: 1em;
+    line-height: 1.2em;
+    color: #2a2a2a;
+    text-align: center;
+}
+
+.copy2 p a {
+    font-family: "abril-text", sans-serif;
+    font-style: italic;
+    display: inline;
+    text-decoration: none;
+    color: #B07F88;
 }
 
 .photo2 {
     width: 100%;
-    margin: 2% auto 7%;
+    margin: 0 auto;
     display: block;
 }
 
 .photo2 img {
     width: 95%;
     display: block;
-    margin: 0 auto;
+    margin: 5% auto 5%;
+}
+
+.contact {
+    margin: 7% 5%;
+    font-family: "hypatia-sans-pro", sans-serif;
+    font-size: 1.1em;
+    line-height: 1.5em;
+    align-content: center;
+    padding: 0;
+}
+
+.contact p {
+    margin: 15px 0;
+    font-family: "hypatia-sans-pro", sans-serif;
+    font-size: 1em;
+    line-height: 1.5em;
+    color: #2a2a2a;
+}
+
+.contact p a {
+    text-decoration: none;
+    color: #2a2a2a;
+}
+
+.left {
+    width: 32%;
+    float: left;
+    text-align: right;
+    font-weight: 700;
+    margin-left: auto;
+    margin-right: 0;
+    padding: 0;
+}
+
+.right {
+    width: 63%;
+    float: right;
+    text-align: left;
+    margin-left: 0;
+    margin-right: auto;
+    padding: 0;
+}
+
+.welcome2 {
+    width: 100%;
+    text-align: center;
+    font-family: "hypatia-sans-pro", sans-serif;
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #B07F88;
+    font-style: normal;
+    clear: both;
+    margin-bottom: 7%;
+    margin-top: 55%;
 }
